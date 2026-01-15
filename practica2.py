@@ -18,7 +18,7 @@ def main():
 
     match eleccion:
         case 1:
-            sum(num1,num2)
+            suma(num1,num2)
         case 2:
             resta(num1,num2)
         case 3:
